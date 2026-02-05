@@ -15,7 +15,15 @@
 - البيانات المعالجة ضمن حدود المنطقة العربية
 
 ---
+## DRAP HF Radio Absorption over the Arab Region  
+### 14 May 2025 – Peak Solar Flare Impact
 
+**08:26 UTC – Peak absorption during the X-class flare**
+![DRAP HF absorption 08:26 UTC](https://raw.githubusercontent.com/Amr1001Hamada/Arabian-Space-Weather-Radio-Blackout-May2025/main/%D8%A7%D9%84%D8%A7%D9%94%D8%B4%D9%83%D8%A7%D9%84/SWX_DRAP20_C_SWPC_20250514082600_GLOBAL.png)
+
+**11:22 UTC – Sustained absorption after the flare peak**
+![DRAP HF absorption 11:22 UTC](https://raw.githubusercontent.com/Amr1001Hamada/Arabian-Space-Weather-Radio-Blackout-May2025/main/%D8%A7%D9%84%D8%A7%D9%94%D8%B4%D9%83%D8%A7%D9%84/SWX_DRAP20_C_SWPC_20250514112200_GLOBAL.png)
+---
 ## محتويات المستودع
 
 - `figures/`  
