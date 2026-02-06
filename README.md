@@ -1,4 +1,4 @@
-# Arabian-Space-Weather-Radio-Blackout-May2025 عواصف شمسية وصمت راديوي في المنطقة العربية
+# Arabian-Space-Weather-Radio-Blackout-May2025 
 
 # عواصف شمسية وصمت راديوي في المنطقة العربية
 ## دراسة حالة لتوهج شمسي قوي – 14 مايو 2025
