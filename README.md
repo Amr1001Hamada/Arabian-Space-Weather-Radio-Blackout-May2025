@@ -25,7 +25,7 @@
 **11:22 UTC – امتصاص مستمر بعد ذروة التوهج - Sustained absorption after the flare peak**
 ![DRAP HF absorption 11:22 UTC](https://raw.githubusercontent.com/Amr1001Hamada/Arabian-Space-Weather-Radio-Blackout-May2025/main/%D8%A7%D9%84%D8%A7%D9%94%D8%B4%D9%83%D8%A7%D9%84/SWX_DRAP20_C_SWPC_20250514112200_GLOBAL.png)
 
-(https://raw.githubusercontent.com/Amr1001Hamada/Arabian-Space-Weather-Radio-Blackout-May2025/main/%D8%A7%D9%84%D8%A7%D9%94%D8%B4%D9%83%D8%A7%D9%84/شكل-انقطاع الراديو.png)
+
 ---
 ## محتويات المستودع
 
